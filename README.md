@@ -1,2 +1,2 @@
 # Game
-I wrote this game with Pygame 
+I wrote this game with Pygame  in Python
